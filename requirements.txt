@@ -1,0 +1,7 @@
+opencv-python
+pillow
+tensorflow
+keras
+moviepy==1.0.3
+imageio
+tqdm
