@@ -28,7 +28,7 @@ A simple Python tool to classify and organize media files (images, videos, GIFs)
 1. Clone or download this repository:
 
    ```bash
-   git clone https://github.com/yourusername/media-sorter.git
+   git clone https://github.com/icyxonyx/Basic-Media-Sorter.git
    cd media-sorter/media-sorter
    ```
 
